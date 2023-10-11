@@ -1,2 +1,5 @@
 # kinda
-kinda sorta
+
+Kinda exploring how sorting algorithms work.
+
+
